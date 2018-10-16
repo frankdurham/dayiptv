@@ -1,1 +1,1 @@
-http://buyiptv.link:25461/get.php?username=zaRSoP2hVr&password=8dKwXPJ4A5&type=m3u&output=ts
+http://landiptv.live:8080/get.php?username=fcXRmAMPLg&password=rJbaLcl9Gx&type=m3u_plus&output=ts
